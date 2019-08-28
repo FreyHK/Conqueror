@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\HexMapGenerator.cs">
+    <Files>
+      <File FileName="Assets\Scripts\HexCell.cs" Line="137" Column="28" />
+      <File FileName="Assets\Scripts\HexMapGenerator.cs" Line="37" Column="7" />
+      <File FileName="Assets\Scripts\MapInput.cs" Line="83" Column="16" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="53" Column="50" />
+      <File FileName="Assets\Scripts\HexGrid.cs" Line="116" Column="22" />
+      <File FileName="Assets\Scripts\BotInput.cs" Line="22" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

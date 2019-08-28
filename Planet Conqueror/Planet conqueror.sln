@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{58AD4C4C-36A4-9584-75FB-FB8AF2F27072}") = "Planet conqueror", "Assembly-CSharp-firstpass.csproj", "{6971E581-8715-080A-BBA1-8FB12D2CD3F3}"
+EndProject
+Project("{58AD4C4C-36A4-9584-75FB-FB8AF2F27072}") = "Planet conqueror", "Assembly-CSharp.csproj", "{ECB42085-B50C-4C4A-F64B-477785398376}"
+EndProject
+Project("{58AD4C4C-36A4-9584-75FB-FB8AF2F27072}") = "Planet conqueror", "Assembly-CSharp-Editor.csproj", "{D887211A-606D-1ACA-B476-D078B00DE914}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6971E581-8715-080A-BBA1-8FB12D2CD3F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6971E581-8715-080A-BBA1-8FB12D2CD3F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6971E581-8715-080A-BBA1-8FB12D2CD3F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6971E581-8715-080A-BBA1-8FB12D2CD3F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECB42085-B50C-4C4A-F64B-477785398376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB42085-B50C-4C4A-F64B-477785398376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB42085-B50C-4C4A-F64B-477785398376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB42085-B50C-4C4A-F64B-477785398376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D887211A-606D-1ACA-B476-D078B00DE914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D887211A-606D-1ACA-B476-D078B00DE914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D887211A-606D-1ACA-B476-D078B00DE914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D887211A-606D-1ACA-B476-D078B00DE914}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
